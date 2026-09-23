@@ -111,7 +111,7 @@ System.out.println(v2 == v3); // true
 
 `@Description` **does NOT rename a bean**.
 
-It is used only to provide metadata/documentation about a bean.
+It is used only to provide metadata/documentation about a bean.n
 
 ### Example
 
